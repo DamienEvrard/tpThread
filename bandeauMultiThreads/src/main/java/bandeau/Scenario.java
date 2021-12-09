@@ -15,6 +15,7 @@ class ScenarioElement {
         repeats = r;
     }
 }
+
 /**
  * Un scenario mémorise une liste d'effets, et le nombre de repetitions pour chaque effet
  * Un scenario sait se jouer sur un bandeau.
